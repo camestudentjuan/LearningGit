@@ -11,3 +11,10 @@ The place where I document my learning progress on GitHub
  * Basics of Java e.g. : structure, data types, strings and operators, input output, and arrays.
  * Flow controls in Java, like loopung and branching.
  * Collection data types like lists, sets, and maps.
+
+## January 20, 2021
+### Introduction to Java Programming (100% progress)
+ * Object-Oriented Programming concepts in programming.
+ * Classes in Java
+ * Example programs
+ * Final tests
