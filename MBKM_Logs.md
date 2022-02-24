@@ -14,5 +14,8 @@ Materi ILT masih cukup dasar, sehingga saya tidak memiliki kesulitan yang berart
 ## February 23, 2022
 Selama hari ini saya hanya mengerjakan modul struktur data Javascript di Dicoding. Saya sedikit kesulitan dalam mengenal dan menggunakan Sets, Object, Array dan  Map dan masih belum begitu mengerti WeakMap dan WeakSet
 
-## fEB 24
+## Feb 24
 GW GA DENGER KULIAH
+
+## Feb 25
+Ngerti semua akldsjfkl
