@@ -17,3 +17,8 @@ Selama hari ini saya hanya mengerjakan modul struktur data Javascript di Dicodin
 ## February 24, 2022
 Progress hari ini cukup juga cukup sedikit akibat masalah internet di tempat saya, namun tetap ada progress, yaitu saya kempali mempelajari Sets,
 Object, Array dan Map, serta WeakMap dan WeakSet, dengan mengerjakan kuis mengenai topik tersebut di Dicoding, sekarang saya merasa cukup pd dengan materi - materi tersebut.
+
+## February 25, 2022
+Hari ini dimulai dengan mengerjakan course Javascript, lebih tepatnya modul Function. Topik ini cukup mudah dipahami dan kuis yang saya kerjakan setelah belajar modulnya cukup simple. Satu kendala kecil adalah salah satu soal kuisnya memberi perintah untuk membuat function untuk menghitung angka kuadrat, dengan dua input a dan b dimana function harus mengembalikan a pangkat b. saya memulai dengan menggunakan looping dimana a akan mengalikan diri sendiri sebanyak b, functionnya hanya memberikan hasil yang diharapkan jika angka input b tidak desimal, sehingga saya harus mencari cara lain. Ternyata solusinya sesimple a ** b.
+
+Setelah menghabiskan setegah hari menyelesaikan masalah internet, saya mengikuti sesi Guest Speaking bersama pak Puja Pramudya, beliau merupakan Senior Software Engineer dari Bukalapak, dan dalam sesi tersebut dia membagikan banyak ilmu yang menarik seputar bagaimana menjadi seorang karyawan, lebih spesifik sebagai software engineer, termasuk etika dalam bekerja, bagaimana cara menghadapi tugas dan permintaan atasan, serta tips dan teknik untuk bekerja dengan produktif. 
