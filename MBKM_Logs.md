@@ -23,10 +23,10 @@ Hari ini dimulai dengan mengerjakan course Javascript, lebih tepatnya modul Func
 
 Setelah menghabiskan setegah hari menyelesaikan masalah internet, saya mengikuti sesi Guest Speaking bersama pak Puja Pramudya, beliau merupakan Senior Software Engineer dari Bukalapak, dan dalam sesi tersebut dia membagikan banyak ilmu yang menarik seputar bagaimana menjadi seorang karyawan, lebih spesifik sebagai software engineer, termasuk etika dalam bekerja, bagaimana cara menghadapi tugas dan permintaan atasan, serta tips dan teknik untuk bekerja dengan produktif. 
 
-## February 1, 2022
+## March 1, 2022
 
 Hari dimulai dengan pembekalan MSIB, dimana kebanyakan info yang disampaikan adalah info yang sudah pernah disampaikan / dapat ditemukan di FAQ seperti masalah pendanaan dan logbook di website kemendikbud. Setelah itu saya mengikuti Weekly Consultation dimana kami membahas masalah - masalah teknis dan sharing - sharing pendapat. Setelah itu saya menyelesaikan seluruh materi dalam modul Javascript yang tersisa, modul Node Package Manager cukup simpel, tetapi modul Testing, walaupun materinya cukup simpel tetapi kuis nya cukup membingungkan, sesuai dengan fungsi testing, yaitu membantu mencari bug.
 
-## February 2, 2022
+## March 2, 2022
 
 Hari dimulai dengan pembekalan MSIB (hari- 2), pada sesi hari ini topik dipusatkan pada kepemimpinan, dimana para pembicara menjelaskan tentang "Tribe" yang kurang relevan dengan program Bangkit karena program Bangkit tidak memiliki tribe. Selain itu, hari ini tidak ada banyak perkembangan karena modul diccoding Javascript sudah saya selesaikan. 
