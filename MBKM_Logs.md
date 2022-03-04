@@ -29,4 +29,7 @@ Hari dimulai dengan pembekalan MSIB, dimana kebanyakan info yang disampaikan ada
 
 ## March 2, 2022
 
-Hari dimulai dengan pembekalan MSIB (hari- 2), pada sesi hari ini topik dipusatkan pada kepemimpinan, dimana para pembicara menjelaskan tentang "Tribe" yang kurang relevan dengan program Bangkit karena program Bangkit tidak memiliki tribe. Selain itu, hari ini tidak ada banyak perkembangan karena modul diccoding Javascript sudah saya selesaikan. 
+Hari dimulai dengan pembekalan MSIB (hari- 2), pada sesi hari ini topik dipusatkan pada kepemimpinan, dimana para pembicara menjelaskan tentang "Tribe" yang kurang relevan dengan program Bangkit karena program Bangkit tidak memiliki tribe. Selain itu, hari ini tidak ada banyak perkembangan karena modul diccoding Javascript sudah saya selesaikan.
+
+## March 3, 2022
+Hari ini juga cukup senggang karena saya sudah menyelesaikan semua modul dicoding yang ada, begitu pula dengan pre-read materials mengenai soft skills. Selain itu saya juga ada beberapa kesibukan diluar program Bangkit sehingga saya belum mencoba hal lain yang berkaitan dengan program Bangkit.
