@@ -33,3 +33,13 @@ Hari dimulai dengan pembekalan MSIB (hari- 2), pada sesi hari ini topik dipusatk
 
 ## March 3, 2022
 Hari ini juga cukup senggang karena saya sudah menyelesaikan semua modul dicoding yang ada, begitu pula dengan pre-read materials mengenai soft skills. Selain itu saya juga ada beberapa kesibukan diluar program Bangkit sehingga saya belum mencoba hal lain yang berkaitan dengan program Bangkit.
+
+## March 4, 2022
+Hari dimulai dengan kelas Softskills Time Management bersama instruktur Neni Yuslaini. Di kelas itu saya belajar tentang manajemen waktu. Satu hal utama yang diajarkan adalah bagaimana mengatur prioritas, salah satunya dengan "Prioritization Matrix" dimana hal - hal yang ingin dilakukan di atur dalam empat kategori, yaitu "Urgent & Important", "Urgent & Less Important", "Important & Less Urgent", "Less Important & Less Urgent". Masing - masing kategori memiliki dapat ditindaklanjuti dengan cara yang berbeda, dimana yang penting dan mendesak perlu dilakukan sekarang, yang penting tapi kurang mendesak dapat dibuatkan jadwal, yang kurang penting tapi mendesak dapat didelegasikan, sedangkan yang kurang penting dan kurang mendesak perlu dilewatkan.
+
+Instruktur juga mengingatkan pentingnya memikirkan kembali alasan mengapa saya melakukan sesuatu disaat saya merasa tidak ingin melakukannya.
+Disiplin juga menjadi poin yang penting, karena dengan disiplinlah baru dapat terbangun kebiasaan yang baik.
+
+Pada sore hari, saya mengikuti sesi guest speaking bersama kak Imanuel Abraham dan Hansel Susanto dengan topik membangun startup yang baik. Para pembicara terlihat antusias dalam penyampaiannya sehingga saya cukup tertarik saat mendengarkan materinya. Dalam presentasinya kak Imanuel menjelaskan dasar - dasar mengenai apa saja yang hal - hal penting dalam memulai startup seperti bagaimana memiliki komposisi tim yang baik, cara mengembangkan ide dan masalah apa saja yang akan ditemui.
+
+Saya pribadi merasa kurang tertarik dalam membangun startup, karena banyaknya hal - hal yang perlu dipikirkan dan diimplementasikan secara matang, dan kemungkinan kegagalan yang cukup besar. Hal tersebut sebenarnya cukup menarik, tetapi saya merasa belum siap untuk melalui jalur tersebut untuk memulai karir saya. Tetapi membangun startup dapat masuk kedalam list hal hal yang akan saya lakukan jika telah mencapai tahap tertentu dalam jenjang karir saya.
