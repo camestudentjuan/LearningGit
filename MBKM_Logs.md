@@ -43,3 +43,20 @@ Disiplin juga menjadi poin yang penting, karena dengan disiplinlah baru dapat te
 Pada sore hari, saya mengikuti sesi guest speaking bersama kak Imanuel Abraham dan Hansel Susanto dengan topik membangun startup yang baik. Para pembicara terlihat antusias dalam penyampaiannya sehingga saya cukup tertarik saat mendengarkan materinya. Dalam presentasinya kak Imanuel menjelaskan dasar - dasar mengenai apa saja yang hal - hal penting dalam memulai startup seperti bagaimana memiliki komposisi tim yang baik, cara mengembangkan ide dan masalah apa saja yang akan ditemui.
 
 Saya pribadi merasa kurang tertarik dalam membangun startup, karena banyaknya hal - hal yang perlu dipikirkan dan diimplementasikan secara matang, dan kemungkinan kegagalan yang cukup besar. Hal tersebut sebenarnya cukup menarik, tetapi saya merasa belum siap untuk melalui jalur tersebut untuk memulai karir saya. Tetapi membangun startup dapat masuk kedalam list hal hal yang akan saya lakukan jika telah mencapai tahap tertentu dalam jenjang karir saya.
+
+## Second Week Log
+MInggu ini cukup senggang kegiatan akibat adanya dua hari libur dan modul Dicoding yang sudah saya selesaikan sebelum minggu ini. 
+Hari Senin dan Selasa di isi dengan kegiatan "Pembekalan Mahasiswa" dari program MSIB. Informasi didalamnya cukup dasar dan kebanyakan sudah saya dapat di hari - hari sebelumnya. Tetapi saat mengikuti kegiatannya, cukup jelas masih banyak orang yang baru dengar info - info tersebut untuk pertama kalinya. Hal - hal tersebut meliputi hal - hal administratif seperti pengisian logbook, verifikasi NISN, dan pengurusan pendanaan. Pada hari kedua ditekankan pada program Tribe yang kurang relevan buat saya karena program Bangkit tidak ada Tribe.
+
+Materi utama yang dipelajari hari ini adalah softskills dengan topik Time Management dimana kami diajarkan bagaimana membuat prioritas dan bagaimana pola pikir dapat membantu dalam manajemen kegiatan dan waktu.
+
+
+Sebelum kelas ILT Time Management, sudah ada Pre-read Materials untuk  Time Management, materi pertama berfokus pada tips - tips dalam  manajemen waktu, sedangkan  materi kedua berisi penjelasan tentang mindset dalam manajemen waktu.
+
+Dalam ILT terkesan mirip dengan pre-read materials tapi lebih jelas, spesifik dan ringkas.
+
+Dua hal utama yang saya pelajari pada ILT adalah:
+1. Mengatur pola pikir sama pentingnya denga mengatur waktu.
+2. Untuk mencapai manajemen waktu yang baik perlu dimulai dengan disiplin.
+
+Tetapi dari semua hal mengenai manajemen waktu, hal terpenting adalah mengatur prioritas,  mulai dengan membagikan kegiatan dalam empat kategori seperti Penting dan Mendesak, Penting tapi Kurang Mendesak, Mendesak tapi Kurang Penting, dan Tidak Penting dan Tidak Mendesak. Dengan keempat kategori tersebut, akan lebih mudah mengatur kegiatan apa saja yang perlu dilakukan dulu
