@@ -1,6 +1,7 @@
 # Kampus Merdeka Logs
 This is where I put my Logbook backup because Kampus Merdeka's website is kinda sketchy with reliability.
 
+# Week 1
 ## February 21, 2022
 Hari ini dimulai dengan belajar hingga modul pengenalan Javascript dilanjutkan dengan konsultasi mingguan bersama fasilitator bangkit dan teman - teman seanggota grup. Dalam konsultasi mingguan kami berkenalan satu sama lain dan menyelesaikan beberapa masalah teknis.
 Setelah sesi konsultasi saya melanjutkan beberapa modul dicoding Javascript hingga modul fundamental Javascript dimana saya telah belajar dan mencoba mengerjakan kuis dengan membuat dekalarasi variabel dan pembuatan If .... Else statement.
@@ -35,6 +36,7 @@ Ada juga materi Softskills yaitu bertopik Time Management atau manajemen waktu, 
 
 Materi Softskill ini telah membantu saya secara cukup signifikan, karena saya berhasil mengerjakan dua course Dicoding sekaligus tanpa kewalahan seperti minggu lalu, bahkan lebih cepat dibanding ekspektasi, ditambah saya menghadapi beberapa masalah teknis dan pribadi (hanya sedikit) diluar program Bangkit.
 
+# Week 2
 ## March 1, 2022
 
 Hari dimulai dengan pembekalan MSIB, dimana kebanyakan info yang disampaikan adalah info yang sudah pernah disampaikan / dapat ditemukan di FAQ seperti masalah pendanaan dan logbook di website kemendikbud. Setelah itu saya mengikuti Weekly Consultation dimana kami membahas masalah - masalah teknis dan sharing - sharing pendapat. Setelah itu saya menyelesaikan seluruh materi dalam modul Javascript yang tersisa, modul Node Package Manager cukup simpel, tetapi modul Testing, walaupun materinya cukup simpel tetapi kuis nya cukup membingungkan, sesuai dengan fungsi testing, yaitu membantu mencari bug.
@@ -57,7 +59,7 @@ Pada sore hari, saya mengikuti sesi guest speaking bersama kak Imanuel Abraham d
 Saya pribadi merasa kurang tertarik dalam membangun startup, karena banyaknya hal - hal yang perlu dipikirkan dan diimplementasikan secara matang, dan kemungkinan kegagalan yang cukup besar. Hal tersebut sebenarnya cukup menarik, tetapi saya merasa belum siap untuk melalui jalur tersebut untuk memulai karir saya. Tetapi membangun startup dapat masuk kedalam list hal hal yang akan saya lakukan jika telah mencapai tahap tertentu dalam jenjang karir saya.
 
 ## Second Week Log
-MInggu ini cukup senggang kegiatan akibat adanya dua hari libur dan modul Dicoding yang sudah saya selesaikan sebelum minggu ini. 
+Minggu ini cukup senggang kegiatan akibat adanya dua hari libur dan modul Dicoding yang sudah saya selesaikan sebelum minggu ini. 
 Hari Senin dan Selasa di isi dengan kegiatan "Pembekalan Mahasiswa" dari program MSIB. Informasi didalamnya cukup dasar dan kebanyakan sudah saya dapat di hari - hari sebelumnya. Tetapi saat mengikuti kegiatannya, cukup jelas masih banyak orang yang baru dengar info - info tersebut untuk pertama kalinya. Hal - hal tersebut meliputi hal - hal administratif seperti pengisian logbook, verifikasi NISN, dan pengurusan pendanaan. Pada hari kedua ditekankan pada program Tribe yang kurang relevan buat saya karena program Bangkit tidak ada Tribe.
 
 Materi utama yang dipelajari hari ini adalah softskills dengan topik Time Management dimana kami diajarkan bagaimana membuat prioritas dan bagaimana pola pikir dapat membantu dalam manajemen kegiatan dan waktu.
@@ -72,3 +74,5 @@ Dua hal utama yang saya pelajari pada ILT adalah:
 2. Untuk mencapai manajemen waktu yang baik perlu dimulai dengan disiplin.
 
 Tetapi dari semua hal mengenai manajemen waktu, hal terpenting adalah mengatur prioritas,  mulai dengan membagikan kegiatan dalam empat kategori seperti Penting dan Mendesak, Penting tapi Kurang Mendesak, Mendesak tapi Kurang Penting, dan Tidak Penting dan Tidak Mendesak. Dengan keempat kategori tersebut, akan lebih mudah mengatur kegiatan apa saja yang perlu dilakukan dulu
+
+# Week 3
