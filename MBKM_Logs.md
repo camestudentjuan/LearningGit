@@ -23,6 +23,18 @@ Hari ini dimulai dengan mengerjakan course Javascript, lebih tepatnya modul Func
 
 Setelah menghabiskan setegah hari menyelesaikan masalah internet, saya mengikuti sesi Guest Speaking bersama pak Puja Pramudya, beliau merupakan Senior Software Engineer dari Bukalapak, dan dalam sesi tersebut dia membagikan banyak ilmu yang menarik seputar bagaimana menjadi seorang karyawan, lebih spesifik sebagai software engineer, termasuk etika dalam bekerja, bagaimana cara menghadapi tugas dan permintaan atasan, serta tips dan teknik untuk bekerja dengan produktif. 
 
+## First Week Log
+Minggu ini saya cukup berfokus dengan Javascript dan sedikit materi di luar program Bangkit.
+Dari Javascript saya belajar beberapa materi mulai dari yang cukup simpel seperti If .. else statement, looping, berbagai macam tipe data dan dasar dasar struktur data seperti Set, Map, Array, dan Object.
+
+Topik topik tersebut masih cukup mudah untuk dimengerti, tetapi materi selanjutnya seperti Function, Module, dan terutama Concurrency masih cukup susah untuk di praktekkan, walaupun konsep dasarnya masih dapat dimengerti.
+
+Hari Jumat juga ada sesi Guest Speaking bersama mas Puja Pramudya dimana saya belajar banyak mengenai kesehariannya sebagai Software Engineer dan bagaimana pola pikir yang menurut dia produktif untuk menjadi karyawan yang baik.
+
+Ada juga materi Softskills yaitu bertopik Time Management atau manajemen waktu, hal kunci yang saya pelajari adalah< perlu adanya 3 komponen utama dalam memanajemen waktu yaitu adaption(adaptasi terhadap perubahan jadwal dan prioritas), arrangement(menyusun jadwal yang efektif) dan awareness(mengenal batasan jumlah tugas dalam satu waktu). Dan rata - rata orang hanya baik dalam salah satunya, menghasilkan teknik - teknik atau kebiasaan yang tidak efektif dan produktif.
+
+Materi Softskill ini telah membantu saya secara cukup signifikan, karena saya berhasil mengerjakan dua course Dicoding sekaligus tanpa kewalahan seperti minggu lalu, bahkan lebih cepat dibanding ekspektasi, ditambah saya menghadapi beberapa masalah teknis dan pribadi (hanya sedikit) diluar program Bangkit.
+
 ## March 1, 2022
 
 Hari dimulai dengan pembekalan MSIB, dimana kebanyakan info yang disampaikan adalah info yang sudah pernah disampaikan / dapat ditemukan di FAQ seperti masalah pendanaan dan logbook di website kemendikbud. Setelah itu saya mengikuti Weekly Consultation dimana kami membahas masalah - masalah teknis dan sharing - sharing pendapat. Setelah itu saya menyelesaikan seluruh materi dalam modul Javascript yang tersisa, modul Node Package Manager cukup simpel, tetapi modul Testing, walaupun materinya cukup simpel tetapi kuis nya cukup membingungkan, sesuai dengan fungsi testing, yaitu membantu mencari bug.
