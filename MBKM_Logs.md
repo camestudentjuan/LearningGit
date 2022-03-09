@@ -43,3 +43,15 @@ Disiplin juga menjadi poin yang penting, karena dengan disiplinlah baru dapat te
 Pada sore hari, saya mengikuti sesi guest speaking bersama kak Imanuel Abraham dan Hansel Susanto dengan topik membangun startup yang baik. Para pembicara terlihat antusias dalam penyampaiannya sehingga saya cukup tertarik saat mendengarkan materinya. Dalam presentasinya kak Imanuel menjelaskan dasar - dasar mengenai apa saja yang hal - hal penting dalam memulai startup seperti bagaimana memiliki komposisi tim yang baik, cara mengembangkan ide dan masalah apa saja yang akan ditemui.
 
 Saya pribadi merasa kurang tertarik dalam membangun startup, karena banyaknya hal - hal yang perlu dipikirkan dan diimplementasikan secara matang, dan kemungkinan kegagalan yang cukup besar. Hal tersebut sebenarnya cukup menarik, tetapi saya merasa belum siap untuk melalui jalur tersebut untuk memulai karir saya. Tetapi membangun startup dapat masuk kedalam list hal hal yang akan saya lakukan jika telah mencapai tahap tertentu dalam jenjang karir saya.
+
+## March 7, 2022
+Pada hari Senin terdapat team meeting dimana dijelaskan beberapa hal penting untuk program Bangkit meliputi penilaian, kuis, peraturan selama ILT, formulir feedback, progress keseluruhan peserta Bangkit, pengenalan dashboard, dan sesi tanya jawab. 
+
+Kelas Back-end Basic di Dicoding juga sudah diberikan, tetapi saya belum memulai materinya.
+
+## March 8, 2022
+Dalam weekly consultation hari ini, facillitator saya mempresentasikan project capstone yang dia lakukan tahun lalu. Kami juga diberi semacam challenge untuk menciptakan ide sederhana yang akan dipresentasikan minggu depan.
+
+Saya juga sudah memulai materi Backend Basic yang dimulai dengan instalasi node, mencoba REPL, menggunakan Global Object, dan modularisasi. Saya juga belajar bagaimana menginstall, uninstall, dan menggunakan package dengan npm.
+
+Satu hal yang cukup ditekankan adalah penggunaan package yang disarankan dipakai secara lokal, untuk menghindari tabrakan saat ada banyak package untuk berbagai project.
