@@ -102,3 +102,6 @@ Dalam weekly consultation hari ini, facillitator saya mempresentasikan project c
 Saya juga sudah memulai materi Backend Basic yang dimulai dengan instalasi node, mencoba REPL, menggunakan Global Object, dan modularisasi. Saya juga belajar bagaimana menginstall, uninstall, dan menggunakan package dengan npm.
 
 Satu hal yang cukup ditekankan adalah penggunaan package yang disarankan dipakai secara lokal, untuk menghindari tabrakan saat ada banyak package untuk berbagai project.
+
+## March 9, 2022
+Progress hari ini cukup sedikit karena ada beberapa hal lain yang perlu saya kerjakan. Beberapa materi yang saya pelajari adalah events, dimana saya belajar cara membuat algoritma yang event-driven, filesystem untuk membaca file dalam filesystem, readable stream untuk membaca sebuah file dengan menggunakan buffer supaya tidak membaca terlalu banyak sekaligus dan memperlambat server, serta writable stream, dimana server dibuat untuk mengoutput sesuatu secara bertahap.
