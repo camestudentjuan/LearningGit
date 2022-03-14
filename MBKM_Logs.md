@@ -112,3 +112,12 @@ Hari ini ada kelas Backend, dimana didalamnya kami belajar materi materi dasar s
 Saya juga melanjutkan materi Back-end di Dicoding dan mempelajari hal hal yang berhubungan seperti membuat server, mulai dari hal hal kecil seperti header dan body, verb, parameter dan menggunakan framework Hapi untuk menciptakannya.
 
 Materi ini sangat membantu saya untuk membuat server yang rapi (masing masing file memiliki satu fungsi) dan mudah dengan bantuan tools seperti nodemon dan ESLint.
+
+## March 11, 2022
+Saya melanjutkan materi backend, dimana saya belajar cara membuat backend yang baik dan rapi, serta dengan bantuan ESLint, menulis kode yang sesuai standar.
+
+Saaya juga diberi kesempatan untuk mempelajarinya dengan mencoba langsung, mengikuti kodenya step by step sehingga saya mengerti apa yang dibuat pada setiap langkah.
+
+Pada hari ini saya juga belajar English Correspondence, dimana saya belajar bagaimana cara berkomunikasi (menggunakan bahasa Inggris) dalam konteks profesional, termasuk interaksi customer-bisnis melalui telepon dalam berbagai situasi, serta berkomunikasi melalui meeting online dalam sebuah tim.
+
+Ada pula sesi latihan mandiri dimana kami membuat sebuah skenario dan berinteraksi seakan kami didalam skenario itu. 
