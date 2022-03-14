@@ -105,3 +105,10 @@ Satu hal yang cukup ditekankan adalah penggunaan package yang disarankan dipakai
 
 ## March 9, 2022
 Progress hari ini cukup sedikit karena ada beberapa hal lain yang perlu saya kerjakan. Beberapa materi yang saya pelajari adalah events, dimana saya belajar cara membuat algoritma yang event-driven, filesystem untuk membaca file dalam filesystem, readable stream untuk membaca sebuah file dengan menggunakan buffer supaya tidak membaca terlalu banyak sekaligus dan memperlambat server, serta writable stream, dimana server dibuat untuk mengoutput sesuatu secara bertahap.
+
+## March 10, 2022
+Hari ini ada kelas Backend, dimana didalamnya kami belajar materi materi dasar seperti apa itu front end dan backend, Apa itu API, REST API dan cara membuat API yang RESTful.  
+
+Saya juga melanjutkan materi Back-end di Dicoding dan mempelajari hal hal yang berhubungan seperti membuat server, mulai dari hal hal kecil seperti header dan body, verb, parameter dan menggunakan framework Hapi untuk menciptakannya.
+
+Materi ini sangat membantu saya untuk membuat server yang rapi (masing masing file memiliki satu fungsi) dan mudah dengan bantuan tools seperti nodemon dan ESLint.
