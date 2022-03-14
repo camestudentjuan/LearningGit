@@ -121,3 +121,15 @@ Saaya juga diberi kesempatan untuk mempelajarinya dengan mencoba langsung, mengi
 Pada hari ini saya juga belajar English Correspondence, dimana saya belajar bagaimana cara berkomunikasi (menggunakan bahasa Inggris) dalam konteks profesional, termasuk interaksi customer-bisnis melalui telepon dalam berbagai situasi, serta berkomunikasi melalui meeting online dalam sebuah tim.
 
 Ada pula sesi latihan mandiri dimana kami membuat sebuah skenario dan berinteraksi seakan kami didalam skenario itu. 
+
+## Third Week Log
+
+Saya melanjutkan materi backend, dimana saya belajar cara membuat backend yang baik dan rapi, serta dengan bantuan ESLint, menulis kode yang sesuai standar.
+
+Saaya juga diberi kesempatan untuk mempelajarinya dengan mencoba langsung, mengikuti kodenya step by step sehingga saya mengerti apa yang dibuat pada setiap langkah.
+
+Pada hari ini saya juga belajar English Correspondence, dimana saya belajar bagaimana cara berkomunikasi (menggunakan bahasa Inggris) dalam konteks profesional, termasuk interaksi customer-bisnis melalui telepon dalam berbagai situasi, serta berkomunikasi melalui meeting online dalam sebuah tim.
+
+Ada pula sesi latihan mandiri dimana kami membuat sebuah skenario dan berinteraksi seakan kami didalam skenario itu. 
+
+# Week 4
