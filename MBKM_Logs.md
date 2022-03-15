@@ -133,7 +133,7 @@ Pada hari ini saya juga belajar English Correspondence, dimana saya belajar baga
 Ada pula sesi latihan mandiri dimana kami membuat sebuah skenario dan berinteraksi seakan kami didalam skenario itu. 
 
 # Week 4
-March 14, 2022
+## March 14, 2022
 Dalam kegiatan hari ini saya belajar konsep - konsep Cloud, yaitu Modul 1 di Google Cloud Skills Boost. Saya belajar bahwa Cloud Computing adalah teknologi dimana tugas - tugas komputasi tidak dilakukan di tempat (on-premise) menggunakan komputer dan server pribadi, melainkan tugas - tugas tersebut dialihkan ke sebuah jaringan server global melalui internet. Dengan begitu penyedia internet dapat menggunakan skala yang besar untuk meningkatkan efisiensi setiap server dengan memaksimalkan penggunaan masing - masing server.
 
 Saya juga belajar perbedaan antara IaaS, PaaS, dan SaaS, dimana IaaS adalah layanan yang menyediakan dan mengurus infrastruktur seperti perangkat keras, sehingga pengguna hanya menyediakan seluruh perangkat lunak.
