@@ -142,4 +142,35 @@ PaaS adalah layanan dimana pengguna hanya perlu menyediakan aplikasi untuk dijal
 
 SaaS mencakup layanan yang lebih luas lagi, dimana perangkat keras dan perangkat lunak sudah disediakan, pengguna hanya perlu memberikan data untuk diolah atau dipakai.
 
-Saya juga sudah memulai modul 2 di Cloud Skills Boost, dimana saya mengenal Google Cloud Platform, mengenal beberapa cara mengoperasikan tools tools GCP seperti Cloud Shell dan SDK
+Saya juga sudah memulai modul 2 di Cloud Skills Boost, dimana saya mengenal Google Cloud Platform, mengenal beberapa cara mengoperasikan tools tools GCP seperti Cloud Shell dan SDK.
+
+## March 15, 2022
+Hari ini saya melanjutkan modul 2 di course Cloud Computing Fundamentals, dimana saya belajar cara menggunakan cloud shell, menjalankan dan menggunakan Virtual Machine melalui Compute Engine, termasuk cara menjalankan aplikasi di Compute Engine tersebut.
+Aplikasi juga dapat dikonfigurasi supaya 'elastis' yaitu beban dari pengaksesan dapat di bagikan sama rata kepada beberapa Compute Engine, sehingga mengurangi kesempatan terjadinya kegagalan.
+
+Saya juga belajar App Engine, dimana alat ini hanya meperlukan aplikasi saya untuk menjalankannya, tidak perlu lagi mengkonfigurasi sebuah server. 
+
+## March 16, 2022
+Melanjutkan Modul 3 dari Cloud Computing Foundations, saya belajar Cloud Functions, dimana saya membuat sebuah fungsi yang menerima signal dan melakukan tugas sederhana.  Lalu saya belajar membuat Container, Orchestration menggunakan Kubernetes, dan mengatur Load Balancer. Semua hal yang baru saya sebutkan berguna untuk menjalankan aplikasi yang akan diakses oleh orang yang sangan banyak dan/atau harus berfungsi terus menerus (highly scalable and highly available).
+
+Saya juga sudah memulai modul 4, dimana saya belajar berbagai jenis penyimpanan untuk data yang terstruktur dan tidak terstruktur. Saya juga telah mencoba membuat database berbasis MySQL di Cloud SQL.
+
+## March 17, 2022
+Hari ini saya melanjutkan modul 4 mengenai storage, dimana saya mulai dengan mengenal Cloud Spanner, sebuah service yang menyediakan database relasional yang dapat di skalakan seakan database unstructured.
+
+Saya juga belajar Cloud Datastore dan Cloud Bigtable, dimana databasenya berbasis NoSQL, yang sangat cocok untuk data unstructured.
+
+Saya juga melanjutkan modul 5, dimana tema utama nya adalah tentang API. Dimulai dari Cloud Endpoints, sebuah alat untuk mengelola akses untuk menggunakan API. Lalu ada juga Apigee, sebuah alat untuk membantu bisnis transisi ke cloud dengan membantu migrasi API satu satu.
+Ada pula Cloud Pub/Sub yang membantu mengatur pengiriman pesan antara service.
+
+Selanjutnya saya memulai Modul 6 yang berfokus pada keamanan. Dimulai dengan "Shared Security Model" yang menjelaskan perbedaan tanggung jawab antara penyedia cloud services dengan penggunanya. Tanggung jawab terhadap perangkat keras, jaringan, dan akses dan autentikasi, sedangkan data pengguna selalu merupakan tanggung jawab pengguna. Penyedia layanan hanya menyediakan sarana untuk mengatur perlindungan tersebut.
+Selanjutnya saya mengenal beberapa jenis enkripsi, seperti perlindungan default GCP, CMEK, CSEC, atau enkripsi lokal sebelum diupload ke GCP. Masing masing cara memiliki tingkat kemudahan dan kontrol yang berbeda. Semakin mudah, semakin terbatas kontrol nya begitu pula sebaliknya.
+
+Saya juga sudah mulai mengenal dasar dasar IAM, untuk mengatur siapa yang punya akses, untuk mengatur apa, terhadap resource yang mana.
+
+## March 18, 2022
+Hari ini saya mengikuti kelas of soft skill professional branding & interview, dimana saya belajar dasar - dasar dalam membuat resume serta mempersiapkan diri untuk interview. Salah satu hal yang saya pelajarin adalah teknik S.T.A.R. atau Situation, Task, Action, dan Result. Teknik tersebut dapat digunakan untuk menjawab pertanyaan tentang situasi seperti "Jelaskan pengalamanmu saat menghadapi situasi dimana...".
+
+Selanjutnya saya mengerjakan modul 6 dari Google Cloud Skills Boost, dimana saya mencoba membuat sebuah project dan mengatur IAM untuk mengatur akses terhadap sebuah aplikasi. Dengan IAM, saya dapat membuat aplikasi yang saya buat dapat diakses oleh siapa saja, atau hanya orang-orang tertentu.
+
+Selanjutnya saya mengikuti sesi Guest Speaking dimana Nurendratoro Singgih menyampaikan tentang kegunaan Google Cloud Platform untuk meningkatkan kinerja perusahaan.
