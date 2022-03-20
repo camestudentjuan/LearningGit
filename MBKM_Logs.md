@@ -174,3 +174,17 @@ Hari ini saya mengikuti kelas of soft skill professional branding & interview, d
 Selanjutnya saya mengerjakan modul 6 dari Google Cloud Skills Boost, dimana saya mencoba membuat sebuah project dan mengatur IAM untuk mengatur akses terhadap sebuah aplikasi. Dengan IAM, saya dapat membuat aplikasi yang saya buat dapat diakses oleh siapa saja, atau hanya orang-orang tertentu.
 
 Selanjutnya saya mengikuti sesi Guest Speaking dimana Nurendratoro Singgih menyampaikan tentang kegunaan Google Cloud Platform untuk meningkatkan kinerja perusahaan.
+
+# Week 5
+Pembelajaran minggu ini cukup terfokus pada Cloud Computing Foundations dari Google Cloud Skills Boost, didalamnya terdapat 10 modul, minggu ini saya menyelesaikan hingga modul 8
+
+Modul pertama saya belajar tentang dasar - dasar Cloud seperti bagaimana jaringan cloud bekerja dan mengenal berbagai macam services.
+Di modul dua, saya belajar beberapa tools dasar di GCP, seperti Cloud Shell, Cloud SDK, Compute Engine, dan App Engine
+
+Pada modul tiga saya belajar cara - cara mendeploy aplikasi di GCP, seperti menggunakan Cloud Functions untuk operasi serverless, menggunakan Container dan Orchestration untuk dapat menjalankan aplikasi dengan skala besar.
+
+Modul empat berfokus pada penyimpanan, dimulai dari data terstruktur menggunakan Cloud SQL dan Cloud Spanner, lalu data tidak terstruktur seperti Cloud Datastore dan Cloud Bigtable.
+
+Di modul lima, saya belajar segala hal mengenai API, Cloud Endpoints untuk mengelola API, Apigee untuk migrasi dan Pub/Sub untuk mengirim pesan antara service.
+
+Modul 6 berfokus pada security, hal utamanya adalah  bertanggung jawab antara
