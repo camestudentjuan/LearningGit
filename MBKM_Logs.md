@@ -175,11 +175,10 @@ Selanjutnya saya mengerjakan modul 6 dari Google Cloud Skills Boost, dimana saya
 
 Selanjutnya saya mengikuti sesi Guest Speaking dimana Nurendratoro Singgih menyampaikan tentang kegunaan Google Cloud Platform untuk meningkatkan kinerja perusahaan.
 
-# Week 5
+## Fourth Week Log
 Pembelajaran minggu ini cukup terfokus pada Cloud Computing Foundations dari Google Cloud Skills Boost, didalamnya terdapat 10 modul, minggu ini saya menyelesaikan hingga modul 8
 
-Modul pertama saya belajar tentang dasar - dasar Cloud seperti bagaimana jaringan cloud bekerja dan mengenal berbagai macam services.
-Di modul dua, saya belajar beberapa tools dasar di GCP, seperti Cloud Shell, Cloud SDK, Compute Engine, dan App Engine
+Modul pertama saya belajar tentang dasar - dasar Cloud seperti bagaimana jaringan cloud bekerja dan mengenal berbagai macam services. Di modul dua, saya belajar beberapa tools dasar di GCP, seperti Cloud Shell, Cloud SDK, Compute Engine, dan App Engine
 
 Pada modul tiga saya belajar cara - cara mendeploy aplikasi di GCP, seperti menggunakan Cloud Functions untuk operasi serverless, menggunakan Container dan Orchestration untuk dapat menjalankan aplikasi dengan skala besar.
 
@@ -187,4 +186,14 @@ Modul empat berfokus pada penyimpanan, dimulai dari data terstruktur menggunakan
 
 Di modul lima, saya belajar segala hal mengenai API, Cloud Endpoints untuk mengelola API, Apigee untuk migrasi dan Pub/Sub untuk mengirim pesan antara service.
 
-Modul 6 berfokus pada security, hal utamanya adalah  bertanggung jawab antara
+Modul 6 berfokus pada security, hal utamanya adalah pembagian tanggung jawab antara penyedia dengan pengguna. Lalu dijelaskan juga beberapa cara mengatur keamanan di cloud seperti beberapa macam key exchange yang tersedia dan pengaturan IAM.
+
+Modul 7 dan Modul 8 saya kerjakan pada hari Sabtu dan Minggu. 
+Pada modul 7, materi berfokus pada networking, dimulai dari menjelaskan VPC peering dan Dedicated/Career Interconnect, untuk menghubungkan services kedalam sebuah jaringan di Google Cloud.
+Lalu diajarkan juga konsep dan cara menggunakan Load Balancer, baik untuk customer facing maupun untuk services internal, agar menghindari downtime akibat penggunaan yang terlalu banyak.
+
+Di modul 8 dikenalkan kepada Stackdriver, yang memiliki berbagai fungsi untuk manajemen dan analisis aplikasi dan sistem yang di pasang di cloud, termasuk Monitoring, Tracing, Debugging dan Dashboard.
+
+Pada hari Jumat terdapat sesi ILT Soft Skills, dimana kami diajarkan cara membuat Resume yang baik, cara membuat profil yang baik untuk prospek karir dan sedikit mengenai interview.
+
+Ada juga sesi Guest Speaking yang bertemakan pengenalan dan manfaat Google Cloud dalam sebuah institusi.
