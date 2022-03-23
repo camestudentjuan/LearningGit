@@ -197,3 +197,33 @@ Di modul 8 dikenalkan kepada Stackdriver, yang memiliki berbagai fungsi untuk ma
 Pada hari Jumat terdapat sesi ILT Soft Skills, dimana kami diajarkan cara membuat Resume yang baik, cara membuat profil yang baik untuk prospek karir dan sedikit mengenai interview.
 
 Ada juga sesi Guest Speaking yang bertemakan pengenalan dan manfaat Google Cloud dalam sebuah institusi.
+
+# Week 5
+## 21 March 2022
+Hari ini tidak terlalu banyak progress, saya merasa cukup lelah dengan kegiatan kemarin. Saya juga sedang mempersiapakan UTS untuk mata kuliah yang saya ambil bersamaan dengan Bangkit
+
+## 22 March 2022
+Hari ini saya mengerjakan modul 9 dari Cloud Skills Boost, dimana saya belajar beberapa tools dari Google Cloud untuk mengelola data, seperti Dataproc untuk menggunakan Apache Hadoop dan Apache Spark, alat alat yang dipakai untuk menganalisa Big Data.
+
+Cloud Dataflow merupakan alat untuk melalukan alur pemrosesan dan transformasi data.
+
+BigQuery merupakan alat untuk menyimpan data yang sangan besar dan terstruktur, untuk membantu melakukan analisa data. 
+
+Saya juga mencoba DataPrep, alat yang digunakan untuk merapikan dan mempersiapkan data, seperti menghapus barisan data yang tidak relevan atau mengubah nama kolom.
+
+## 23 March 2022
+Hari ini saya belajar modul 10 dan terakhir di Google Cloud Computing Foundations, dimana saya belajar mengenai Machine Learning, dimulai dari apa itu Machine Learning. 
+
+Saya sempat bingung tentang beda Machine Learning, Artificial Intelligence, dan Deep Learning. Ternyata dijelaskan dalam satu materi bahwa Artificial Intelligence merupakan pandangan luas tentang sebuah sistem yang dapat menyelesaikan masalah dengan kepintaran yang ditanamkan didalamnya.
+Machine Learning merupakan lapisan didalam Artificial Intelligence, dimana ia adalah sebuah sistem atau teknik yang diterapkan kepada sebuah mesin sehingga memiliki kemampuan untuk belajar, beradaptasi, dan mencari cara untuk mencapai hasil yang ingin dicapai.
+Deep Learning merupakan salah satu teknik Machine Learning, dimana sebuah algoritma dibuat sedemikian rupa supaya 'berpikir' neuron pada otak manusia.
+
+Selanjutnya ditunjukan demonstrasi sebuah sistem yang dibuat oleh Google untuk mengenal gambar - gambar coretan (doodle) yang bernama Quick, Draw! Selanjutnya disajikan beberapa alat yang tersedia di GCP.
+
+Dimulai dari AI Platform, sebuah alat yang membantu orang yang sudah berpengalaman dalam mencipatkan sistem model Machine Learning untuk menciptakan model yang custom, bespoke, dan rumit.
+
+Lalu ada AutoML untuk spektrum sebaliknya, untuk membantu orang yang baru ingin membuat model Machine Learning dengan cepat dan mudah.
+
+Selanjutnya ada Pre-trained Machine Learning API, merupakan rangkaian API yang dapat dipakai untuk melakukan tugas - tugas yang mudah dilakukan manusia, tetapi susah dilakukan sistem otomatis, seperti mengerti teks, mendengar kata - kata dan menuliskannya, mengenal benda dalam video. Semua tugas itu dapat dilakukan oleh sistem yang sudah 'diajarkan' oleh Google, sehingga hanya perlu memanggil API nya. 
+
+Saya menutup materi Google Cloud Computing Foundations dengan mengerjakan empat challenge yang tersedia pada course ini.
