@@ -227,3 +227,16 @@ Lalu ada AutoML untuk spektrum sebaliknya, untuk membantu orang yang baru ingin 
 Selanjutnya ada Pre-trained Machine Learning API, merupakan rangkaian API yang dapat dipakai untuk melakukan tugas - tugas yang mudah dilakukan manusia, tetapi susah dilakukan sistem otomatis, seperti mengerti teks, mendengar kata - kata dan menuliskannya, mengenal benda dalam video. Semua tugas itu dapat dilakukan oleh sistem yang sudah 'diajarkan' oleh Google, sehingga hanya perlu memanggil API nya. 
 
 Saya menutup materi Google Cloud Computing Foundations dengan mengerjakan empat challenge yang tersedia pada course ini.
+
+## March 24th 2022
+Hari ini saya tidak melakukan banyak hal karena adanya UTS di pagi hari. Saya hanya mengerjakan Assignment untuk kelas soft skills personal branding. Saat mengerjakan tugas tersebut saya belajar lebih lagi tentang bagaimana membuat summary yang bagus. Satu poin yang terutama adalah jangan bertele-tele, pastikan informasi yang ada adalah informasi yang penting dan tuliskan dengan ringkas.
+
+## March 25th, 2022
+Saya memulai kelas Coursera mengenai Architecting with Google Compute Engine. Saya baru memulai beberapa materi awal, dimana saya belajar dasar - dasar Google Cloud mirip seperti apa yang saya pelajadi minggu lalu di Google Cloud Computing Foundations modul 1, yaitu IaaS dan PaaS, lalu region - region, dan evolusi layanan server serta keuntungan menggunakan cloud.
+
+## Fifth week log
+Minggu ini materi yang saya pelajari cukup sedikit, dimulai dengan modul 9 dari Google Cloud Computing Foundations yang sejujurnya saya kurang paham, karena di kenalkan terhadap alat - alat yang berhubungan dengan analisis dan pemrosesan data seperti Dataproc, Dataflow, dan Dataprep. 
+
+Pada modul 10 (terakhir) saya diberikan materi mengenai ML, dan alat - alat yang disediakan oleh Google yang berhubungan dengan itu, seperti pre-trained ML models API untuk menggunakan kekuatan ML milik Google, atau AutoML untuk membuat model ML dengan cepat, serta AI Platform untuk para professional yang ingin kontrol maksimum terhadap pembuatan model ML nya.
+
+Ada pula kelas sinkron Introduction to Google Cloud, dan materi pertama dari Coursera Architecting with GCE yang berjudul "Introduction to Google Cloud Platform". Seperti yang dapat ditebak dari namanya, materi didalamnya sangat mirip, yaitu membahas dasar - dasar mengenai Cloud seperti evolusi penggunaan server dan contoh kasus yang menunjukkan kelebihan menggunakan cloud. Materi ini mirip juga dengan materi minggu lalu pada modul 1 dari Google Cloud Computing Foundations.
