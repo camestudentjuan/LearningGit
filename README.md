@@ -240,3 +240,68 @@ Minggu ini materi yang saya pelajari cukup sedikit, dimulai dengan modul 9 dari 
 Pada modul 10 (terakhir) saya diberikan materi mengenai ML, dan alat - alat yang disediakan oleh Google yang berhubungan dengan itu, seperti pre-trained ML models API untuk menggunakan kekuatan ML milik Google, atau AutoML untuk membuat model ML dengan cepat, serta AI Platform untuk para professional yang ingin kontrol maksimum terhadap pembuatan model ML nya.
 
 Ada pula kelas sinkron Introduction to Google Cloud, dan materi pertama dari Coursera Architecting with GCE yang berjudul "Introduction to Google Cloud Platform". Seperti yang dapat ditebak dari namanya, materi didalamnya sangat mirip, yaitu membahas dasar - dasar mengenai Cloud seperti evolusi penggunaan server dan contoh kasus yang menunjukkan kelebihan menggunakan cloud. Materi ini mirip juga dengan materi minggu lalu pada modul 1 dari Google Cloud Computing Foundations.
+
+# Week 6
+## March 28th, 2022
+Hari ini saya mengerjakan Quest di Google Cloud Skills Boost berjudul Google Developer Essentials. Quest ini berisi banyak Lab, dimana saya mempratikkan berbagai tugas di Cloud.
+
+Lab - lab yang saya kerjakan meliputi:
+Menganalisa data cuaca dengan bantuan BigQuery
+Analisa subjek dan sentimen dalam sebuah kalimat menggunakan ML melalui Natural Language API
+Menciptakan aplikasi Google Assistant yang berfungsi untuk mencari restoran berdasarkan jarak dan jenis makanan.
+
+Saya juga memulai Quest yang kedua, yang berjudul Build Interactive Apps with Google Assistant.
+Saya memulai dengan mempelajari Dialogflow, sebuah alat yang membantu menciptakan alur percakapan, serta Actions, untuk menerima dan melayani perintah dari pengguna.
+
+## March 29th, 2022
+Hari ini saya melanjutkan Quest Build Interactive Apps with Google Assistant.
+
+Saya belajar cara membuat aplikasi Google Assistant menggunakan Dialogflow dan Cloud Functions. Lalu saya juga mempraktekkannya dengan membuat aplikasi yang dapat mencari lagu di Youtube berdasarkan artis menggunakan Google Assistant.
+
+Selanjutnya saya mengerjakan Challenge Lab, dimana saya membuat Aplikasi Google Assistant lagi, tapi tanpa bantuan langkah - langkah. Aplikasi yang saya buat cukup sederhana, yaitu menerima pertanyaan dan membalasnya dengan kalimat - kalimat yang lucu. Aplikasi tersebut juga dapat menerima bahasa lain, dan menjawabnya dengan bahasa tersebut dengan bantuan Cloud Functions yang menghubungkan request dan resultnya ke translator saat menerima perintah dan saat menyajikan jawaban.
+
+## March 30th, 2022
+
+Hari ini saya belajar Quest Build a Website with Google Cloud. dimana saya belajar cara mendeploy sebuah website di Google Cloud. Awalnya cukup mudah, tinggal masukkan buat Container menggunakan Cloud Build, lalu deploy dengan Cloud Run. Hal -hal lain seperti load balancer dan Kubernetes akan doatur oleh Google.
+
+Tetapi, untuk mendapatkan kontrol yang lebih mendalam, perlu digunakan GKE yang dikelola sendiri. Karena itu saya juga belajar cara mendeploy website di Compute Engine dan juga Google Kubernetes Engine.  Saya juga belajar cara mengupdate website tanpa downtime dan juga mengubah aplikasi monolithic menjadi aplikasi yang berjalan diatas microservices.
+
+Selanjutnya saya belajar quest Implement DevOps in Google Cloud. Saya mulai dengan belajar Cloud Source Repository sebagai repo git Google Cloud, Lalu saya mencoba berbagai cara untuk mendeploy Kubernetes Engine, mengatur akses ke aplikasi canary untuk percobaan sebelum di launching ke semua pengguna. Saya juga belajar menggunakan Terraform untuk mengatur Kubernetes nya, dilanjutkan dengan Jenkins, sebuah alat untuk membantu implementasi deployment CI/CD dengan lebih mudah. Dilanjutkan dengan challenge lab untuk melakukan tugas - tugas yang mirip tetapi tanpa bantuan step-by-step.
+
+## March 31st, 2022
+
+Hari ini saya melanjutkan Course 1 dari Architecting with Google Compute Engine Specialization,  yang berjudul Google Cloud Fundamentals: Core Infrastructure.
+
+Saya memulai dengan belajar alat alat dan cara kerja dasar di Google Cloud Platform  salah satunya adalah IAM, yang merupakan fitur untuk mengatur autentikasi dan otorisasi para pengguna dalam sebuah organisasi. Sebuah organisasi terdiri dari beberapa project, dan ada juga fitur folder yang dapat diimplementasikan untuk merapikan organisasinya.
+
+Ada juga Cloud Marketplace, sebuah layanan yang (setahu saya) menyediakan tools - tools yang dapat dihubungkan ke services GCP, salah satunya API.
+
+Selanjutnya saya belajar mengenai Virtual Machines dan infrastuktur dibelakangnya seperti VPC untuk mengatur jaringan global dan Compute Engine sebagai sarana VM dari GCP.
+
+## April 1st, 2022
+Hari ini saya melanjutkan materi mengenai Storage di Cloud. 
+Dimulai dengan Google Cloud Storage. Ini adalah salah satu jenis object storage, yang artinya setiap file disimpan di suatu tempat sebagai kumpulan byte dan akan diberikan alamat. Alamat tersebut unik dan terbuat dari URL sehingga sangat mudah dihubungkan dengan teknologi web.
+
+Selanjutnya ada pengenalan dasar  tentang Cloud Bigtable, sebuah database NoSQL. Cloud Bigtable juga dapat dengan mudah diskalakan secara horizontal.
+
+Selanjutnya ada Cloud SQL yang sudah kompatibel dengan MySQL dan PostgreSQL. Dengan kompatibilitas tersebut, pengguna dapat dengan mudah bermigrasi ke cloud. 
+Ada pula Cloud Spanner yang memiliki cara kerja mirip SQL tetapi dapat diskalakan secara horizontal tanpa menggunakan teknik replikasi.
+
+Selanjutnya ada Cloud Datastore, sebuah database noSQL berbasis document. Cloud Datastore dapat dapat menerima transaksi ke beberapa barisan sekaligus.
+
+Selanjutnya saya belajar mengenai Containers, Kubernetes dan Kubernetes Engine.
+Container adalah sebuah paket software yang dapat dijalankan diatas sebuah OS  yang seakan akan OS nya di virtualized. dengan begitu setiap paket software dapat dipindah kan kemana mana, dan dapat juga diperbesar skala nya tanpa terus menginstall dan mengkonfigurasi ulang VM. Kubernetes adalah alat yang dipakai untuk mengatur banyak container yang dipasang di beberapa instance sekaligus serta mengatur load balancing ke container - container tersebut.
+
+Saya juga mengikuti sesi Guest Speaking besama mas Ivan Nugroho dan membahas tips tips untuk menghadapi interview.
+
+## Sixth Week Log
+Ada 3 bagian utama dalam kegiatan saya minggu ini.
+
+Bagian pertama adalah Coursera, yang merupakan mayoritas kesibukan saya minggu ini. Namun sayangnya materi ini pula yang paling membosankan dan tidak terasa penting, dikarenakan materinya sangat mirip dengan materi Google Cloud Computing Foundations minggu - minggu lalu, termasuk didalamnya:
+
+Pengenalan dasar tentang infrastruktur Google Cloud, IAM untuk mengatur role dan akses, Storage seperti Cloud Storage, Cloud SQL, Bigtable dan Datastore, VM menggunakan Compute Engine, Container dan Orchestration mengunakan Kubernetes Engine, dan pada akhirnya kumpulan tools pemoresan data sperti Dataproc, Dataflow, dan Bigquery, serta tools - tools Machine Learning seperti Google Machine Learning Platform, Machine Learning API, dan Tensorflow. Semua hal tersebut pernah dikenalkan pada minggu - minggu sebelumnya dan sedikit lebih detail dibanding minggu ini.
+
+Bagian kedua merupakan rangkaian Quest di Google Cloud Skills Boost yang cukup menantang, Bagian ini cukup menarik karena sebagian besar merupakan kegiatan praktek, menggunakan alat alat yang sudah saya pelajari pada minggu lalu, dan saya pelajari lagi minggu ini seperti menggunakan BigQuery dan ML API untuk melakukan tugas di Cloud,dan mendeploy container dan Kubernetes. 
+Ada juga hal baru yang saya pelajari seperti menciptakan aplikasi Google Assistan menggunakan Dialogflow, serta mempraktekan CI/CD dengan bantuan Jenkins dan Terraform, sehingga dapat melayani klien dengan aplikasi terbaru tanpa ada gangguan.
+
+Bagian ketiga merupakan softskills, dimulai dengan kelas softskills Critical Thinking dimana saya mempelajari arti, cara dan tujuan dari berpikir kritis, serta mengerjakan tugas berupa keadaan hypothetical dimana saya bertugas mencari jalan untuk masalah bisnis sebuah perusahaan dengan menemukan akar permasalahannya dan memberikan saran. Saya juga belajar tips - tips dalam menghadapi interview di sesi Guest Speaking.
